@@ -31,7 +31,7 @@ public class Inicial1Application {
 
 			// Creo un objeto persona
 			Persona persona1 = Persona.builder().
-					nombre("Hsin Yu").apellido("Lin").dni(3849738).
+					nombre("Martina").apellido("Nuñez").dni(45602188).
 					build();
 
 			personaRepository.save(persona1);
